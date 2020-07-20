@@ -1,5 +1,5 @@
 {
-    "name": "fullreska/zilauid",
+    "name": "saefullohaziz27/zilauid",
     "description": "Auto generate uuid for laravel eloquids",
     "type": "project",
     "require": {
@@ -15,7 +15,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Fullreska\\Zilauid\\": "src/"
+            "SaefullohAziz27\\Zilauid\\": "src/"
         }
     }
 }
